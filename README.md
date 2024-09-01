@@ -33,3 +33,12 @@ python scrape_headlines.py
 
 ## Example Output
 ![Example Output](./screenshot.png)
+
+## License
+
+This project is licensed under a modified version of the GNU General Public License v3.0 with a Non-Commercial Clause.
+
+### Non-Commercial Clause:
+This program is licensed for non-commercial use only. You may not use, distribute, or modify this program for commercial purposes without express written permission from the copyright holder.
+
+For full details, see the [LICENSE](./LICENSE) file.
